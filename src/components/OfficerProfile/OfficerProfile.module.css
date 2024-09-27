@@ -1,0 +1,12 @@
+.text {
+    margin: 0;
+    font-size: 20px;
+}
+
+.active {
+    color: chartreuse;
+}
+
+.retired {
+    color: crimson;
+}
